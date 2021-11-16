@@ -1,2 +1,0 @@
-# ARVR
-Hope this helps
